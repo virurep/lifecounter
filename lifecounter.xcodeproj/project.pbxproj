@@ -16,6 +16,7 @@
 		FA3E1FFC2BD0BD9D0077E400 /* lifecounterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3E1FFB2BD0BD9D0077E400 /* lifecounterTests.swift */; };
 		FA3E20062BD0BD9D0077E400 /* lifecounterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3E20052BD0BD9D0077E400 /* lifecounterUITests.swift */; };
 		FA3E20082BD0BD9D0077E400 /* lifecounterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3E20072BD0BD9D0077E400 /* lifecounterUITestsLaunchTests.swift */; };
+		FA6A57582BD87F400098FBC7 /* HistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6A57572BD87F400098FBC7 /* HistoryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FA3E20012BD0BD9D0077E400 /* lifecounterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lifecounterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA3E20052BD0BD9D0077E400 /* lifecounterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lifecounterUITests.swift; sourceTree = "<group>"; };
 		FA3E20072BD0BD9D0077E400 /* lifecounterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lifecounterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FA6A57572BD87F400098FBC7 /* HistoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FA3E1FE42BD0BD9C0077E400 /* AppDelegate.swift */,
 				FA3E1FE62BD0BD9C0077E400 /* SceneDelegate.swift */,
 				FA3E1FE82BD0BD9C0077E400 /* ViewController.swift */,
+				FA6A57572BD87F400098FBC7 /* HistoryViewController.swift */,
 				FA3E1FEA2BD0BD9C0077E400 /* Main.storyboard */,
 				FA3E1FED2BD0BD9D0077E400 /* Assets.xcassets */,
 				FA3E1FEF2BD0BD9D0077E400 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				FA3E1FE92BD0BD9C0077E400 /* ViewController.swift in Sources */,
 				FA3E1FE52BD0BD9C0077E400 /* AppDelegate.swift in Sources */,
 				FA3E1FE72BD0BD9C0077E400 /* SceneDelegate.swift in Sources */,
+				FA6A57582BD87F400098FBC7 /* HistoryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
